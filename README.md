@@ -25,14 +25,7 @@ El proyecto contiene los siguientes archivos y carpetas:
 ## 📌 Temas Abordados
 
 - Creación de base de datos y tablas
-- Relaciones 1 a 1, 1 a N y N a N
-- Normalización hasta 3NF
-- Claves primarias y foráneas
-- Consultas con `JOIN`, `GROUP BY`, `ORDER BY`
-- Inserción de datos estructurados
-- Integridad referencial
-- Subconsultas
-- Procedimientos Almacenados
+- FUNCIONES DEFINIDAS POR EL USUARIO
 ## ✅ Requisitos para Ejecutar
 
 - Tener instalado MySQL Server
